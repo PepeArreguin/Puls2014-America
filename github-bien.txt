@@ -1,0 +1,100 @@
+¡Internet Cambia!
+
+1.- Diseño elástico, después sigue:
+
+2.-Responsive Designe
+
+3.- Más radicar Mobile Fist 
+
+Ejemplos:
+-Path
+-Vine creado por los exfundadores de Twitter.
+-Instagram,  lo más importante es que “creo contenido”
+
+Todos los productos deben de tener y EMPEZAR por  -----→Mobile Fisrt
+
+Mobile ---→ Retina display
+
+Retina display : 
+
+Un 1 pixel equivale  a 4 pixeles
+
+Ejemplo:
+Si quieren insertar una imagen de 60 por 90px la tienen que exportar a 120 x 180px y luego achicarla con html
+ 
+
+
+
+Elementos que componen la web
+
+Estos son los 3 perfiles que componen la web:
+
+1.- Frontend: todo lo que tiene interacción directa con el usuario
+
+HTML – lenguaje de modelado de información
+CSS – lenguaje declarado usando estilo en cascada para aplicarle diseño grafico para estilar html, javascript
+JAVASCRIPT- lenguaje de programación (es el único lenguaje de programación) y tiene framework: jQuery, Prototype, backbo, nangular.
+Es un lenguaje de programación derivado de la sintaxis de 6c++
+
+
+2.- Backend: Es la programación que se conecta con la base de datos
+PHP, .NET, JAVA, ASP3.0, rubiorase, phython, note.js 
+
+
+
+
+3.- Bases de datos:
+MySQL / Postgres / SQL Server / Oracle 
+
+No relacionales: Es una base de no estructurada pero altamente veloz
+
+MongoDB / Redis / CouchDB
+
+
+
+
+Mockups (boceto- web):
+Tiene que ser increíblemente feo para que el diseñador explote al máximo su creatividad.
+
+
+“El diseño no debería responder a tamaños de dispositivos, el diseño debería responder al diseño, nosotros deberíamos diseñar a como nos imaginaríamos el diseño.”
+
+
+
+Cantidad de pixeles a contemplar:
+Iphone: 320px (largo) 480px (ancho)
+
+Desktop: 1200px
+
+
+FTP : ES LO PEOR, arcano
+
+
+Sistema de control de versiones, revolucionario.
+
+SVN: Subversión /mercurial / TFS / CVS / GIT
+
+Github
+
+1.- Red social de programaciones
+2.- Web / Apps
+3.- Mucho más fácil
+
+Clon local
+Commit - sync
+
+1.- Múltiples versiones del mismo código
+2.- Cambios Delta
+Base de datos atómica del código
+3.- Historial de cada archivo
+4.- Múltiples personas sobre el mismo archivo
+5.- Culpa al culpable
+6.- Ramas (branches)
+*master (github.com) REPO PRINCIPAL
+*master (disco duro) REPO LOCAL
+	*master
+	*experimental
+	----------MERGE (experimental – master)
+*master (servidor.com) REPO PRODUCCIÓN
+
+
